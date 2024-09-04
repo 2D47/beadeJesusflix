@@ -2,7 +2,7 @@ Beatriz 2D (04/09/2024)
 
 body {
     background-color: rgb (102, 101, 101);
-    margin:0px;
+    margin: 0px;
     font-family: "Space Grotesk", sans-serif;
     margin-bottom: 79px;
 }
@@ -10,7 +10,7 @@ body {
 
 header {
     background-color: beige;
-    border-bottom: solid 5px #000000;
+    border-bottom: solid: 5px #000000;
     padding: 20px;
     font-size: 30px;
     color: rgb (98, 3, 3);
@@ -40,7 +40,7 @@ img {
 
 .categoria {
 padding-left: 20px;
-padding-right 20px;
+padding-right: 20px;
 margin-top: 50px;
 }
 
@@ -51,7 +51,7 @@ margin-top: 50px;
 
 .categoria-videos img:hover {
  opacity: 1.0;
- border: 5px solid red;
+ border: 5px solid: red;
 }
 
 .categoria h2 {
